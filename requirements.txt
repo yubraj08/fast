@@ -1,2 +1,2 @@
 fastapi==0.110.1
-
+python_version==3.9
